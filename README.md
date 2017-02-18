@@ -10,7 +10,7 @@
 
 1.  Install MongoDB
     (https://www.mongodb.com/download-center#community)
-    
+
 2.  Install NodeJS
     (https://nodejs.org/en/download/)
     
