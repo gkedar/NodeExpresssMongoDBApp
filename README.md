@@ -33,7 +33,9 @@
     mongod --dbpath /mongodb/data/db/
 
 2.  Importing Json files to Create Collection
+
     mongoimport --host localhost --port 8080 --db testdb --collection customers --file=/mongodb/customers.json
+    
     mongoimport --host localhost --port 8080 --db testdb --collection films --file=/mongodb/films.json
 
 3.  Show list of all databases
