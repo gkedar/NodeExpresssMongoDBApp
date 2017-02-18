@@ -6,6 +6,10 @@
 *   **Express** is a framework for building web applications on top of Node.js. It simplifies the server creation process that is already available in Node. In case you were wondering, Node allows you to use JavaScript as your server-side language.
 *   **MongoDB** is a database. This is the place where you store information for your web websites (or applications).
 
+**Movie Store**
+
+![Alt text](./movie_store.png)
+
 **You’ll need the following things for this web application:**
 
 1.  Install MongoDB
